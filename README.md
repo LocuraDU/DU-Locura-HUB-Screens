@@ -1,3 +1,27 @@
+# Information
+A collection of HUB screens for Dual Universe.
+
+[![](https://img.shields.io/badge/DU-1.4.X-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
+[![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
+![](https://komarev.com/ghpvc/?username=DU-Locura-HUB-Screens&style=for-the-badge)
+---
+[![](https://img.shields.io/badge/CODE-LUA-green?style=for-the-badge&logo=lua)](#)
+[![](https://img.shields.io/badge/CODE-HTML-red?style=for-the-badge&logo=html5)](#)
+[![](https://img.shields.io/badge/CODE-SVG-red?style=for-the-badge&logo=svg)](#)
+[![](https://img.shields.io/badge/CODE-CSS-red?style=for-the-badge&logo=css3)](#)
+---
+[![](https://img.shields.io/github/issues/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/issues-closed/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/watchers/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=WATCHERS)](#)
+[![](https://img.shields.io/github/stars/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=STARS)](#)
+[![](https://img.shields.io/github/forks/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=FORKS)](#)
+[![](https://img.shields.io/github/commit-activity/m/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=COMMIT%20ACTIVITY)](#)
+[![](https://img.shields.io/github/discussions/locuradu/DU-Locura-HUB-Screens?label=DISCUSSIONS&style=flat-square)](#)
+[![](https://img.shields.io/github/last-commit/locuradu/DU-Locura-HUB-Screens?label=LAST%20COMMIT&style=flat-square)](#)
+[![](https://img.shields.io/github/contributors/locuradu/DU-Locura-HUB-Screens?label=CONTRIBUTORS&style=flat-square)](#)
+[![](https://img.shields.io/github/releases/locuradu/DU-Locura-HUB-Screens?label=RELEASES&style=flat-square)](#)
+[![](https://img.shields.io/github/repo-size/LocuraDU/DU-Locura-HUB-Screens?label=REPO%20SIZE&style=flat-square)](#)
+[![](https://img.shields.io/github/license/LocuraDU/DU-Locura-HUB-Screens?label=LICENSE&style=flat-square)](#)
 |Preview| Screen  | Current Version | Needed Screen | Info |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |<img src="img/20230718215646_1.jpg" height="100" width="147">|X03|[![](https://img.shields.io/badge/VERSION-v1.0-green?style=for-the-badge)](#)|SMALL|Basic 3 HUB screen|
