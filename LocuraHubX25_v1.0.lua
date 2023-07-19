@@ -29,6 +29,7 @@ tl25='C5R5'
 
 -- DONT EDIT BELOW THIS LINE --
 
+-- DU-Locura-HUB-Screen-X25
 -- GitHub/LocuraDU For Information / Updates / Downloads 
 -- Discord: Discord/credence.locura
 -- Script Credits: GitHub/LocuraDU & GitHub/Jericho1060 & GitHub/d6rks1lv3rz3r0
