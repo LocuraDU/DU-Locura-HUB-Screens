@@ -9,9 +9,6 @@ A collection of HUB screens for Dual Universe.
 ![](https://komarev.com/ghpvc/?username=DU-Locura-HUB-Screens&style=for-the-badge)
 ---
 [![](https://img.shields.io/badge/CODE-LUA-green?style=for-the-badge&logo=lua)](#)
-[![](https://img.shields.io/badge/CODE-HTML-red?style=for-the-badge&logo=html5)](#)
-[![](https://img.shields.io/badge/CODE-SVG-red?style=for-the-badge&logo=svg)](#)
-[![](https://img.shields.io/badge/CODE-CSS-red?style=for-the-badge&logo=css3)](#)
 ---
 [![](https://img.shields.io/github/issues/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=ISSUES)](#)
 [![](https://img.shields.io/github/issues-closed/locuradu/DU-Locura-HUB-Screens?style=flat-square&label=ISSUES)](#)
