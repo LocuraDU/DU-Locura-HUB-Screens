@@ -1,6 +1,9 @@
 # Information
 A collection of HUB screens for Dual Universe.
 
+:heavy_exclamation_mark: | For changelogs visit the wiki.
+:---: | :---
+
 [![](https://img.shields.io/badge/DU-1.4.X-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 ![](https://komarev.com/ghpvc/?username=DU-Locura-HUB-Screens&style=for-the-badge)
