@@ -30,7 +30,7 @@ tl25='C5R5'
 
 -- DONT EDIT BELOW THIS LINE --
 
--- DU-Locura-HUB-Screen-X24HB
+-- DU-Locura-HUB-Screen-X25
 -- v1.1 (02/01/2024)
 -- GitHub/LocuraDU For Information / Updates / Downloads 
 -- Discord: Discord/credence.locura
