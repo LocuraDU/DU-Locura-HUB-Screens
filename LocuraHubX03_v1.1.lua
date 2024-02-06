@@ -23,7 +23,7 @@ local d={0,0,255} -- Change stripe color
 -- DONT EDIT BELOW THIS LINE --
 
 -- DU-Locura-HUB-Screen-X3
--- v1.1 (7/18/2024)
+-- v1.1 (2/04/2024)
 -- GitHub/LocuraDU For Information / Updates / Downloads 
 -- Discord: Discord/credence.locura
 -- Script Credits: GitHub/LocuraDU & GitHub/Jericho1060 & GitHub/d6rks1lv3rz3r0
